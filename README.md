@@ -1,15 +1,22 @@
-# Hello Bro It is Math s0lver
+#  Math Solver
 
-### How to install math_solver
+Math s0lver is a python program to solve mini problems 
+## Installation
     
-## Step 1 
-`git clone "https://github.com/SamedShukurov/Math-S0lver.git"`
+```bash
+git clone "https://github.com/SamedShukurov/Math-S0lver.git"
+```
 
-## Step 2 
-`cd '.\Math S0lver\`
+```bash
+cd '.\Math S0lver\
+```
 
-## Step 3 
-`pip install -r requirements.txt`
 
-## Step 4 
-`python math_s0lver.py`
+```bash
+pip install -r requirements.txt
+```
+## Usage
+```bash
+python math_s0lver.py
+```
+
