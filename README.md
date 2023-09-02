@@ -2,14 +2,14 @@
 
 ### How to install math_solver
     
-## Step 1 `git clone ""`
+## Step 1 
+`git clone "https://github.com/SamedShukurov/Math-S0lver.git"`
 
-## Step 2 `cd '.\Math S0lver\`
+## Step 2 
+`cd '.\Math S0lver\`
 
-## Step 3 `pip install -r requirements.txt`
+## Step 3 
+`pip install -r requirements.txt`
 
-## Step 4 `python math_s0lver.py`
-
-<html>
-    <pre>git clone ""</pre>
-<html>
+## Step 4 
+`python math_s0lver.py`
